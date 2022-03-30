@@ -45,7 +45,7 @@ a:hover {
 }
 
 ul {
-  margin: 2px auto;
+  margin: auto;
 }
 
 .top-container {
@@ -79,17 +79,28 @@ ul {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto;
+  margin: 100px auto 30px;
   text-align: left;
 }
 
 .skill-margin {
-  margin-bottom: 40px;
+  margin-bottom: 0;
+}
+
+.skills-to-learn {
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 100px;
+}
+
+.first-column-learn {
+  float: left;
+  margin: 0 100px;
 }
 
 .computer-img {
   border-radius: 100%;
-  width: 22%;
+  width: 20%;
   float: left;
   margin-right: 30px;
   margin-bottom: 0;
@@ -107,7 +118,7 @@ ul {
 
 .first-column {
   float: left;
-  margin-right: 70px
+  margin-right: 70px;
 }
 
 .hobby-img {
