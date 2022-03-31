@@ -56,13 +56,13 @@ ul {
 
 .top-cloud {
   position: absolute;
-  right: 350px;
+  right: 19%;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 350px;
+  left: 19%;
   bottom: 300px;
 }
 
@@ -79,7 +79,7 @@ ul {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 30px;
+  margin: 6% auto 2%;
   text-align: left;
 }
 
@@ -102,7 +102,7 @@ ul {
   border-radius: 100%;
   width: 20%;
   float: left;
-  margin-right: 30px;
+  margin-right: 2%;
   margin-bottom: 0;
 }
 
