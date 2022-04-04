@@ -1,0 +1,48 @@
+.skills-table,
+.study-table {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    margin: 0 auto;
+
+    text-align: left;
+}
+
+.first-column,
+.second-column,
+.first-column-learn,
+.second-column-learn {
+    width: 50%;
+
+    display: flex;
+    justify-content: center;
+}
+
+.first-column,
+.second-column {
+    min-width: 325px;
+}
+
+.first-column-learn,
+.second-column-learn {
+    min-width: 200px;
+}
+
+.skills-logo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+}
+
+.my-projects {
+    margin-top: 30px;
+    text-align: center;
+}

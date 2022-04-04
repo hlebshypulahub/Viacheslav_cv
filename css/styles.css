@@ -45,7 +45,8 @@ a:hover {
 }
 
 ul {
-  margin: auto;
+  width: 100%;
+  margin: 0;
 }
 
 .top-container {
@@ -78,48 +79,50 @@ ul {
 }
 
 .skill-row {
-  width: 50%;
-  margin: 6% auto 2%;
-  text-align: left;
+  width: 60%;
+  /* margin: 6% auto 2%; */
+  margin: 0 auto;
+  /* text-align: left; */
 }
 
-.skill-margin {
+/* .skill-margin {
   margin-bottom: 0;
-}
+} */
 
 .skills-to-learn {
-  width: 50%;
-  text-align: left;
-  margin: 60px auto 100px;
+  width: 60%;
+  margin: 0 auto;
+  /* text-align: left; */
+  /* margin: 60px auto 100px; */
 }
 
-.first-column-learn {
+/* .first-column-learn {
   float: left;
   margin: 0 100px;
-}
+} */
 
 .computer-img {
   border-radius: 100%;
-  width: 20%;
-  float: left;
+  width: 120px;
+  /* float: left;
   margin-right: 2%;
-  margin-bottom: 0;
+  margin-bottom: 0; */
 }
 
-.bootcamp-link {
+.hyper-link {
   margin: 0;
   font-weight: bold;
   color: #11999E;
 }
 
-.bootcamp-link:hover {
+.hyper-link:hover {
   color: #085755;
 }
 
-.first-column {
+/* .first-column {
   float: left;
   margin-right: 70px;
-}
+} */
 
 .hobby-img {
   width: 22%;
